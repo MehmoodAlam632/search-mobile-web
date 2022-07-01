@@ -1,0 +1,63 @@
+#nam-parent {
+    max-width: 230px;
+    width: 100%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.header div{ 
+    max-width: 600px;
+    width: 100%;
+    /* background-color: cadetblue; */
+}
+#naam {
+    border-bottom: 1px solid black;
+    color: rgb(16, 65, 114);
+    /* padding: 10px; */
+    font-family: cursive;
+    width: 100%;
+}
+
+.model-image {
+    max-width: 400px;
+    width: 100%;
+}
+body {
+    background-color: rgb(200, 198, 201);
+}
+.input-div {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+#brand{ 
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+    background-color: rgb(245, 197, 197);
+    font-size: large;
+    margin-left: 20px;
+    padding: 10px;
+
+
+}
+#model {
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+    background-color: rgb(245, 197, 197);
+    color: black;
+    font-size: large;
+    margin-left: 20px;
+    padding: 10px;
+}
+#click {
+    width: 150px;
+    height: auto;
+    border-radius: 15px; 
+    background-color: rgb(245, 197, 197);
+    font-size: large;
+    padding: 10px;
+
+}
